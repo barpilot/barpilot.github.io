@@ -1,0 +1,12 @@
+baseURL = "https://barpilot.io/"
+languageCode = "en-us"
+title = "BarPilot"
+
+theme = "hugo-elate-theme"
+
+[params]
+
+# Meta
+author = "Guilhem Lettron"
+description = "BarPilot website"
+email = "guilhem@barpilot.io"
