@@ -1,6 +1,6 @@
 baseURL = "https://barpilot.io/"
 languageCode = "en-us"
-title = "BarPilot"
+title = "barpilot"
 
 theme = "hugo-elate-theme"
 
@@ -8,7 +8,7 @@ theme = "hugo-elate-theme"
 
 # Meta
 author = "Guilhem Lettron"
-description = "BarPilot website"
+description = "barpilot website"
 email = "guilhem@barpilot.io"
 
 [params.navigation]
